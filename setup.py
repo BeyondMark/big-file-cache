@@ -12,7 +12,7 @@ setuptools.setup(
     description="make file cache to read big file",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/BeyondMark/big-file-cache.git",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
